@@ -3,9 +3,9 @@
 
 Name: `LUAN SONGJIAN`
 
-ONID ID: `932-223-500`
+ONID ID: `luans(932-223-500)`
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: `web.engr.oregonstate.edu/~luans/cs290`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
