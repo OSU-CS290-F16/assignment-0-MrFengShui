@@ -3,7 +3,7 @@
 
 Name: `LUAN SONGJIAN`
 
-ONID ID: `luans(932-223-500)`
+ONID ID: `luans@oregonstate.edu`
 
 Link to my CS 290 page: `web.engr.oregonstate.edu/~luans/cs290`
 
